@@ -1,0 +1,4 @@
+Hello
+This is a new file
+It's been created after i cloned this repo
+it's stage 6 of my homework
