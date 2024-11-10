@@ -1,1 +1,2 @@
 This is feaure 2
+Bug fixed
